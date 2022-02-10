@@ -13,10 +13,11 @@ export default {
   name: 'Nav',
   data () {
     return {
-      datas: []
+      datas: [],
+      a: {}
     }
   },
-
+  // 111
   mounted () {
   },
   created () {
